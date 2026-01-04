@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o **Leo**
 
-<!--
-**4Leuuu/4Leuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Frontend** focado em **React, TypeScript** e construção de interfaces modernas e acessíveis.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que eu gosto de criar
+- Aplicações web interativas e responsivas  
+- Dashboards e sistemas SaaS  
+- Ferramentas que resolvem problemas reais do dia a dia  
+
+---
+
+### 🛠️ Stack atual
+**React | TypeScript | Next.js | Zustand | Zod | Tailwind**
+
+---
+
+### 📫 Vamos conversar
+[LinkedIn](www.linkedin.com/in/leonardomauricio) • [Email](mailto:lmauriciodev@gmail.com)

@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o **Leo**
 
-Sou **Desenvolvedor Frontend** focado em **React, TypeScript** e construção de interfaces modernas e acessíveis.  
+Sou **Desenvolvedor Frontend** focado em **React e TypeScript** e construção de interfaces modernas e acessíveis.  
 
 ---
 
